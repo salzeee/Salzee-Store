@@ -1,4 +1,4 @@
-# React E-Commerce Application
+# React E-Commerce Application(Salzee Store)
 
 This repository contains a React-based E-Commerce application that showcases various functionalities typically found in an e-commerce platform. The application allows users to register, login, browse products, apply filters, add items to the cart, and manage their shopping cart, among other features.
 
