@@ -26,7 +26,7 @@ This repository contains a React-based E-Commerce application that showcases var
 To run the application locally, follow these steps:
 
 1. Clone the repository: `https://github.com/salzeee/Salzee-Store.git`
-2. Navigate to the project directory: `cd react-ecommerce-app`
+2. Navigate to the project directory: `cd Salzee-store-main`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and visit `http://localhost:3000` to access the application.
